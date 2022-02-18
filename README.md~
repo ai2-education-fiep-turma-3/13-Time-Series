@@ -1,0 +1,22 @@
+# Atividades
+
+* Aula 1 - Computação Paralela e Sistemas Distribuídos  ([Slides](https://github.com/ai2-education-fiep-turma-3/12-Spark/blob/main/Slides/CP_SD.pdf))
+
+* Aula 2 - Configurando o Ambiente para o Spark ([Slides](https://github.com/ai2-education-fiep-turma-3/12-Spark/blob/main/Slides/Spark_01.pdf)), ([Exercícios](https://github.com/ai2-education-fiep-turma-3/12-Spark/tree/main/exerc%C3%ADcios/Aula1))
+
+* Aula 3 - RDDs e DataFrame com Spark ([Slides](https://github.com/ai2-education-fiep-turma-3/12-Spark/blob/main/Slides/Spark_02.pdf)), ([Exercícios](https://github.com/ai2-education-fiep-turma-3/12-Spark/tree/main/exerc%C3%ADcios/Aula2)), ([DataFrames](https://github.com/ai2-education-fiep-turma-3/12-Spark/tree/main/data))
+ 
+* Aula 4 - SQL, Tabelas e Dataframes com Spark ([Slides](https://github.com/ai2-education-fiep-turma-3/12-Spark/blob/main/Slides/Spark_SQL.pdf)), ([Exercícios](https://github.com/ai2-education-fiep-turma-3/12-Spark/tree/main/exerc%C3%ADcios/Aula2)), ([DataFrames](https://github.com/ai2-education-fiep-turma-3/12-Spark/tree/main/data))
+ 
+* Aula 5 - Dataframes e Postgree com Spark ([Exercícios](https://github.com/ai2-education-fiep-turma-3/12-Spark/tree/main/exerc%C3%ADcios/Aula3)), ([DataFrames](https://github.com/ai2-education-fiep-turma-3/12-Spark/tree/main/data)), ([src](https://github.com/ai2-education-fiep-turma-3/12-Spark/tree/main/src))
+ 
+* Aula 6 - Spark ML ([Exercícios](https://github.com/ai2-education-fiep-turma-3/12-Spark/tree/main/exerc%C3%ADcios/Aula6)), ([DataFrames](https://github.com/ai2-education-fiep-turma-3/12-Spark/tree/main/data)), ([src](https://github.com/ai2-education-fiep-turma-3/12-Spark/tree/main/src))
+ 
+* Aula 7 - Hadoop vs Spark ([Slides](https://github.com/ai2-education-fiep-turma-3/12-Spark/blob/main/Slides/Big_Data_com_Spark.pdf))
+
+* Aula 8 - Big Data PySpark ([src](https://github.com/ai2-education-fiep-turma-3/12-Spark/tree/main/src))
+
+* Aula 9 - Exercícios Big Data ([DataFrames](https://github.com/ai2-education-fiep-turma-3/12-Spark/tree/main/data)), ([src](https://github.com/ai2-education-fiep-turma-3/12-Spark/tree/main/src))
+
+
+333333
